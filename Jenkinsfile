@@ -3,7 +3,7 @@ pipeline {
 
    tools {
         maven 'MAVEN'
-	docker 'docker'
+	dockerTool 'docker'
     } 
      
     
